@@ -1,0 +1,37 @@
+.cardFlex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#ffffff;
+    padding: 100px;
+}
+
+.card__title{
+    color:#282828;
+    font-size: 14px;
+}
+
+.card__description{
+    color:#282828;
+    font-size:12px;
+}
+
+.card__img-top{
+    width: 288px;
+    height: 182px;
+    margin-bottom: 100px;
+}
+
+.header{
+    background-color: #ffffff;
+}
+
+.footer{
+    background-color: #C4C4C4;
+}
